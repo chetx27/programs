@@ -9,5 +9,5 @@ A simple Tic Tac Toe game built with **HTML**, **CSS**, and **JavaScript**.
 - **Responsive Design**: Works seamlessly on desktops and mobile devices.
 - **Restart Button**: Reset the game board with a single click.
 check!
-  https://chetx27.github.io/programs/
+  https://chetx27.github.io/programs/ for more projects like these!
 
